@@ -1,0 +1,7 @@
+com\hrms\util\AddAttachment.class
+com\hrms\libs\TC001_Login_Logout.class
+com\hrms\libs\TC003_DeletEmployee.class
+com\hrms\util\General.class
+com\hrms\libs\TC002_AddEmployee.class
+com\hrms\util\Global.class
+com\hrms\util\Log.class

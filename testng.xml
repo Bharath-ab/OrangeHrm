@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="OrangeHRM" verbose="1" >
+<test name="OrangeHRM">
+<classes>
+<class name="com.hrms.libs.TC001_Login_Logout"/>
+<class name="com.hrms.libs.TC002_AddEmployee"/>
+<class name="com.hrms.libs.TC003_DeletEmployee"/>
+</classes>
+</test>
+</suite>
